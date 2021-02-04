@@ -2,7 +2,7 @@
 
 [Covid-19 Tracker](https://corona-tracke.web.app "website")
 
-![Tracker](file:///C:/Users/Phani/Downloads/Screenshot%20(189).png)
+![Tracker](https://github.com/phanisairachapudi/covid-19-Tracker/blob/first/Screenshot%20(189).png)
 
 ## Available Scripts
 
